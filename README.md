@@ -8,11 +8,11 @@
 # <span style="color:FF2F92">This tool (code) join ideias to solve some datasets that we need to organize to use</span>
 
 > [!note]
-> Espace to notes or attention
+> Be careful when running this on your PC.
 
 
 > [!tip]
-> Espace to notes or attention
+> A random testing system was used, which may no longer be working - you can switch to another one.
 > 
 ---
 
