@@ -15,6 +15,23 @@
 
 ---
 
+# 🍏 Eva's Second Brain - Sprint 6
+
+> 💡 _A lighthouse for developers, scientists & researchers — small tools that make the everyday a little brighter._
+
+💖 **Welcome!** This is my main public repository: a growing collection of examples and functions to help with your day-to-day work as a **developer**, **scientist**, or **researcher**.
+
+# <span style="color:FF2F92">This tool (code) join ideias to solve some datasets that we need to organize to use</span>
+
+> [!note]
+> Espace to notes or attention
+
+
+> [!tip]
+> Espace to notes or attention
+> 
+---
+
 ##  What is this?
 
 `fill_form_tool` is a tiny, fearless automation script. You give it a spreadsheet of products and a login page, and it sits down at your computer, takes the keyboard, and types like a tireless intern who never asks for a lunch break.
